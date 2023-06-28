@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MERN-Talk-A-Tive/static/css/main.e93239c9.css",
+    "main.js": "/MERN-Talk-A-Tive/static/js/main.897fdbde.js",
+    "static/media/background.png": "/MERN-Talk-A-Tive/static/media/background.5fc571ccf7c195807c05.png",
+    "index.html": "/MERN-Talk-A-Tive/index.html",
+    "main.e93239c9.css.map": "/MERN-Talk-A-Tive/static/css/main.e93239c9.css.map",
+    "main.897fdbde.js.map": "/MERN-Talk-A-Tive/static/js/main.897fdbde.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e93239c9.css",
+    "static/js/main.897fdbde.js"
+  ]
+}
