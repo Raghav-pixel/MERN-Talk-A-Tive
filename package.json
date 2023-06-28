@@ -19,5 +19,8 @@
     "nodemon": "^2.0.22",
     "react-scripts": "^5.0.1",
     "socket.io": "^4.6.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
